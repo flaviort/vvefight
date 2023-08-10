@@ -1,0 +1,11 @@
+#footer {
+    position: absolute;
+    z-index: 2;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: fit-content;
+    background-color: $white;
+    padding: .5rem 1rem;
+    margin: auto;
+}
