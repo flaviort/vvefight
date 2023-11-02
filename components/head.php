@@ -37,6 +37,15 @@
 			<link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap'>
 			<link rel='stylesheet' href='assets/css/main.css' type='text/css'>
 
+			<!-- gtag -->
+			<script async src='https://www.googletagmanager.com/gtag/js?id=G-H5S6T0TX79'></script>
+			<script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+				gtag('config', 'G-H5S6T0TX79');
+			</script>
+
 		</head>
 
 		<body>
